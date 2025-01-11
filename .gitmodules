@@ -1,0 +1,105 @@
+[submodule "csharp/CSGyak"]
+	path = csharp/CSGyak
+	url = https://github.com/TGyAkos/CSGyak
+[submodule "csharp/c--quiz"]
+	path = csharp/c--quiz
+	url = https://github.com/TGyAkos/c--quiz
+[submodule "csharp/CS-quiz"]
+	path = csharp/CS-quiz
+	url = https://github.com/TGyAkos/CS-quiz
+[submodule "csharp/Camel"]
+	path = csharp/Camel
+	url = https://github.com/TGyAkos/Camel
+[submodule "csharp/SqlCommandUtils"]
+	path = csharp/SqlCommandUtils
+	url = https://github.com/TGyAkos/SqlCommandUtils
+[submodule "csharp/Sloth-Counter"]
+	path = csharp/Sloth-Counter
+	url = https://github.com/TGyAkos/Sloth-Counter
+[submodule "csharp/Sebesseg"]
+	path = csharp/Sebesseg
+	url = https://github.com/TGyAkos/Sebesseg
+[submodule "csharp/inheritance"]
+	path = csharp/inheritance
+	url = https://github.com/TGyAkos/inheritance
+[submodule "csharp/haromszog"]
+	path = csharp/haromszog
+	url = https://github.com/TGyAkos/haromszog
+[submodule "csharp/taxi"]
+	path = csharp/taxi
+	url = https://github.com/TGyAkos/taxi
+[submodule "csharp/wpfKepek"]
+	path = csharp/wpfKepek
+	url = https://github.com/TGyAkos/wpfKepek
+[submodule "csharp/FileViewer"]
+	path = csharp/FileViewer
+	url = https://github.com/TGyAkos/FileViewer
+[submodule "csharp/wpfVideo"]
+	path = csharp/wpfVideo
+	url = https://github.com/TGyAkos/wpfVideo
+[submodule "csharp/nje-verseny-2024"]
+	path = csharp/nje-verseny-2024
+	url = https://github.com/TGyAkos/nje-verseny-2024
+[submodule "csharp/wpf-calculator"]
+	path = csharp/wpf-calculator
+	url = https://github.com/TGyAkos/wpf-calculator
+[submodule "csharp/ContexMenu"]
+	path = csharp/ContexMenu
+	url = https://github.com/TGyAkos/ContexMenu
+[submodule "csharp/wpf-pizza"]
+	path = csharp/wpf-pizza
+	url = https://github.com/TGyAkos/wpf-pizza
+[submodule "csharp/WorldDefender"]
+	path = csharp/WorldDefender
+	url = https://github.com/TGyAkos/WorldDefender
+[submodule "csharp/wpf-adfgvx"]
+	path = csharp/wpf-adfgvx
+	url = https://github.com/TGyAkos/wpf-adfgvx
+[submodule "csharp/T-5-481-06-2-4-feladat-1"]
+	path = csharp/T-5-481-06-2-4-feladat-1
+	url = https://github.com/TGyAkos/T-5-481-06-2-4-feladat-1
+[submodule "csharp/ChatWpf"]
+	path = csharp/ChatWpf
+	url = https://github.com/TGyAkos/ChatWpf
+[submodule "csharp/CarUnitTests"]
+	path = csharp/CarUnitTests
+	url = https://github.com/TGyAkos/CarUnitTests
+[submodule "csharp/wpfIngatlan"]
+	path = csharp/wpfIngatlan
+	url = https://github.com/TGyAkos/wpfIngatlan
+[submodule "web/ulesrend"]
+	path = web/ulesrend
+	url = https://github.com/TGyAkos/ulesrend
+[submodule "web/basic-chat"]
+	path = web/basic-chat
+	url = https://github.com/TGyAkos/basic-chat
+[submodule "vue/vue-gyak1"]
+	path = vue/vue-gyak1
+	url = https://github.com/TGyAkos/vue-gyak1
+[submodule "vue/vue-doga1"]
+	path = vue/vue-doga1
+	url = https://github.com/TGyAkos/vue-doga1
+[submodule "vue/csengo-client-plans"]
+	path = vue/csengo-client-plans
+	url = https://github.com/OHOKs/csengo-client-plans
+[submodule "web/PlateMate"]
+	path = web/PlateMate
+	url = https://github.com/OHOKs/PlateMate
+[submodule "web/SZF1_13_Frontend_CourseController"]
+	path = web/SZF1_13_Frontend_CourseController
+	url = https://github.com/Pollak-Projects/SZF1_13_Frontend_CourseController
+[submodule "web/EduCloud"]
+	path = web/EduCloud
+	url = https://github.com/Pollak-Projects/EduCloud
+[submodule "web/csengo-mono"]
+	path = web/csengo-mono
+	url = https://github.com/Pollak-Projects/csengo-mono
+[submodule "csharp/BudgetCalculator"]
+	path = csharp/BudgetCalculator
+	url = https://github.com/OHOKs/BudgetCalculator
+[submodule "csharp/School"]
+	path = csharp/School
+	url = https://github.com/OHOKs/School
+[submodule "js/Pollak-Backend"]
+	path = js/Pollak-Backend
+	url = https://github.com/OHOKs/Pollak-Backend
