@@ -103,3 +103,6 @@
 [submodule "js/Pollak-Backend"]
 	path = js/Pollak-Backend
 	url = https://github.com/OHOKs/Pollak-Backend
+[submodule "js/User-Backend"]
+	path = js/User-Backend
+	url = https://github.com/OHOKs/User-Backend

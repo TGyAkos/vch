@@ -1,14 +1,16 @@
 # Installiation commands
 
-- **npm install vite@latest**
-- **npm init vite@latest project_name -- --template vue**
-- **cd project_name**
-- **npm install**
-- **npm install -D tailwindcss@latest postcss@latest autoprefixer@latest vue-router**
-- **npx tailwindcss init -p**
+```bash
+npm install vite@latest
+npm init vite@latest project_name -- --template vue
+cd project_name
+npm install
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest vue-router
+npx tailwindcss init -p
+```
 
 # tailwind.config.js:
-```
+```javascript
 export default {
 content: [],
 purge: {
@@ -22,7 +24,7 @@ plugins: [],
 };
 ```
 # main.js:
-```
+```javascript
 import { createApp } from 'vue'
 import './style.css'
 import router from './router/router.js'
@@ -31,7 +33,7 @@ import App from './App.vue'
 createApp(App).use(VueCookies).use(router).mount('#app')
 ```
 # style.css:
-```
+```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

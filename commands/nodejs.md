@@ -1,5 +1,11 @@
 # Required commands
 
-- **npm init -y**
-- **npm install --save-dev nodemon**
-- **npx nodemon index.js**
+```bash
+npm init -y
+```
+```bash
+npm install --save-dev nodemon
+```
+```bash
+npx nodemon index.js
+```
