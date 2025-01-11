@@ -1,5 +1,6 @@
 # Installiation commands
 
+- **npm install vite@latest**
 - **npm init vite@latest project_name -- --template vue**
 - **cd project_name**
 - **npm install**
