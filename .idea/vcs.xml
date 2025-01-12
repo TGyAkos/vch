@@ -2,5 +2,42 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/BudgetCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/CS-quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/CSGyak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/Camel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/CarUnitTests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/ChatWpf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/ContexMenu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/FileViewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/School" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/Sebesseg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/Sloth-Counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/SqlCommandUtils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/T-5-481-06-2-4-feladat-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/WorldDefender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/c--quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/haromszog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/nje-verseny-2024" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/po2024-s01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/taxi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/wpf-adfgvx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/wpf-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/wpf-pizza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/wpfIngatlan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/wpfKepek" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csharp/wpfVideo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/Pollak-Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/User-Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue/csengo-client-plans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue/vue-doga1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue/vue-gyak1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/EduCloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/PlateMate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/SZF1_13_Frontend_CourseController" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/basic-chat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/csengo-mono" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/ulesrend" vcs="Git" />
   </component>
 </project>

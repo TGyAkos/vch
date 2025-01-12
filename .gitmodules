@@ -109,3 +109,6 @@
 [submodule "csharp/po2024-s01"]
 	path = csharp/po2024-s01
 	url = https://github.com/Pollak-Projects/po2024-s01
+[submodule "practice-wpf-plus-js-backend"]
+	path = practice-wpf-plus-js-backend
+	url = https://github.com/OHOKs/practice-wpf-plus-js-backend
